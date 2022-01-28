@@ -1,0 +1,6 @@
+2022-01-28 15:11:53,437 INFO 6 [egg-schedule]: register schedule /home/projects/webcontainer-egg-shgna5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-28 15:11:53,437 INFO 6 [egg-schedule]: register schedule /home/projects/webcontainer-egg-shgna5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-01-28 15:11:53,437 INFO 6 [egg-schedule]: register schedule /home/projects/webcontainer-egg-shgna5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-01-28 15:11:54,515 INFO 6 [Timer] /home/projects/webcontainer-egg-shgna5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47885488ms at 2022-01-29 04:30:00.003
+2022-01-28 15:11:54,529 INFO 6 [Timer] /home/projects/webcontainer-egg-shgna5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31685471ms at 2022-01-29 00:00:00.000
+2022-01-28 15:11:54,529 INFO 6 [Timer] /home/projects/webcontainer-egg-shgna5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31686471ms at 2022-01-29 00:00:01.000

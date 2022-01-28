@@ -1,0 +1,14 @@
+2022-01-28 15:11:53,432 INFO 6 [egg:logger] init all loggers with options: {"dir":"/home/projects/webcontainer-egg-shgna5/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2022-01-28 15:11:53,444 INFO 6 [egg-multipart] stream mode enable
+2022-01-28 15:11:53,877 INFO 6 [egg-static] starting static serve /public/ -> /home/projects/webcontainer-egg-shgna5/app/public
+2022-01-28 15:11:53,881 INFO 6 [egg-security] use csrf middleware
+2022-01-28 15:11:54,059 INFO 6 [egg-security] use methodnoallow middleware
+2022-01-28 15:11:54,061 INFO 6 [egg-security] use noopen middleware
+2022-01-28 15:11:54,062 INFO 6 [egg-security] use nosniff middleware
+2022-01-28 15:11:54,062 INFO 6 [egg-security] use xssProtection middleware
+2022-01-28 15:11:54,062 INFO 6 [egg-security] use dta middleware
+2022-01-28 15:11:54,062 INFO 6 [egg-security] compose 6 middlewares into one security middleware
+2022-01-28 15:11:54,083 INFO 6 [egg:core] dump config after load, 4ms
+2022-01-28 15:11:54,336 INFO 6 [egg-watcher:application] watcher start success
+2022-01-28 15:11:54,512 INFO 6 [egg:core] dump config after ready, 28ms
+2022-01-28 15:11:56,040 INFO 6 [egg-view-nunjucks] loading templates from ["/home/projects/webcontainer-egg-shgna5/app/view"]
