@@ -1,0 +1,77 @@
+2022-01-28 19:04:02,197 ERROR 61909 [-/::1/-/6ms GET /today] nodejs.TypeError: this.ctx.service.home.findDdayDetail is not a function
+    at HomeController.today (/Users/melon95/resposity/workday/app/controller/home.js:9:45)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/melon95/resposity/workday/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:45:18)
+    at /Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at /Users/melon95/resposity/workday/node_modules/koa-compose/index.js:36:12
+
+pid: 61909
+hostname: lijundeMBP
+
+2022-01-28 19:04:39,341 ERROR 65241 [-/::1/-/7ms GET /today] nodejs.TypeError: this.ctx.service.home.findDayDetail is not a function
+    at HomeController.today (/Users/melon95/resposity/workday/app/controller/home.js:13:45)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/melon95/resposity/workday/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:45:18)
+    at /Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at /Users/melon95/resposity/workday/node_modules/koa-compose/index.js:36:12
+
+pid: 65241
+hostname: lijundeMBP
+
+2022-01-28 19:06:14,891 ERROR 66103 [-/::1/-/5ms GET /today] nodejs.TypeError: this.ctx.service.home.findDayDetail is not a function
+    at HomeController.today (/Users/melon95/resposity/workday/app/controller/home.js:13:45)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/melon95/resposity/workday/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:45:18)
+    at /Users/melon95/resposity/workday/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa-compose/index.js:44:32)
+    at /Users/melon95/resposity/workday/node_modules/koa-compose/index.js:36:12
+
+pid: 66103
+hostname: lijundeMBP
+
+2022-01-28 19:23:38,970 WARN 75355 [-/::1/-/18ms POST /insert] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2022-01-28 19:23:38,970 WARN 75355 [-/::1/-/18ms POST /insert] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/melon95/resposity/workday/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/melon95/resposity/workday/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/melon95/resposity/workday/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/melon95/resposity/workday/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/melon95/resposity/workday/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 75355
+hostname: lijundeMBP
+
+2022-01-28 19:25:24,302 WARN 76323 [-/::1/-/13ms POST /insert] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2022-01-28 19:25:24,304 WARN 76323 [-/::1/-/15ms POST /insert] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/melon95/resposity/workday/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/melon95/resposity/workday/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/melon95/resposity/workday/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/melon95/resposity/workday/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/melon95/resposity/workday/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/melon95/resposity/workday/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 76323
+hostname: lijundeMBP
+

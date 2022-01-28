@@ -2,3 +2,274 @@
 2022-01-28 15:11:52,944 INFO 6 [egg:core] dump config after load, 41ms
 2022-01-28 15:11:53,203 INFO 6 [egg-watcher:agent] watcher start success
 2022-01-28 15:11:54,335 INFO 6 [egg:core] dump config after ready, 154ms
+2022-01-28 18:39:38,178 INFO 52526 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:39:38,185 INFO 52526 [egg:core] dump config after load, 1ms
+2022-01-28 18:39:38,198 INFO 52526 [egg-watcher:agent] watcher start success
+2022-01-28 18:39:38,202 INFO 52526 [egg:core] dump config after ready, 2ms
+2022-01-28 18:42:39,561 INFO 54064 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:42:39,566 INFO 54064 [egg:core] dump config after load, 2ms
+2022-01-28 18:42:39,576 INFO 54064 [egg-watcher:agent] watcher start success
+2022-01-28 18:42:39,581 INFO 54064 [egg:core] dump config after ready, 2ms
+2022-01-28 18:48:07,618 INFO 56790 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:48:07,623 INFO 56790 [egg:core] dump config after load, 1ms
+2022-01-28 18:48:07,634 INFO 56790 [egg-watcher:agent] watcher start success
+2022-01-28 18:48:07,639 INFO 56790 [egg:core] dump config after ready, 3ms
+2022-01-28 18:49:07,733 INFO 57349 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:49:07,739 INFO 57349 [egg:core] dump config after load, 2ms
+2022-01-28 18:49:07,750 INFO 57349 [egg-watcher:agent] watcher start success
+2022-01-28 18:49:07,754 INFO 57349 [egg:core] dump config after ready, 2ms
+2022-01-28 18:55:30,644 INFO 60559 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:55:30,650 INFO 60559 [egg:core] dump config after load, 2ms
+2022-01-28 18:55:30,660 INFO 60559 [egg-watcher:agent] watcher start success
+2022-01-28 18:55:30,664 INFO 60559 [egg:core] dump config after ready, 2ms
+2022-01-28 18:55:44,514 INFO 60744 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:55:44,519 INFO 60744 [egg:core] dump config after load, 2ms
+2022-01-28 18:55:44,530 INFO 60744 [egg-watcher:agent] watcher start success
+2022-01-28 18:55:44,535 INFO 60744 [egg:core] dump config after ready, 3ms
+2022-01-28 18:57:56,530 INFO 61909 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 18:57:56,536 INFO 61909 [egg:core] dump config after load, 2ms
+2022-01-28 18:57:56,546 INFO 61909 [egg-watcher:agent] watcher start success
+2022-01-28 18:57:56,551 INFO 61909 [egg:core] dump config after ready, 2ms
+2022-01-28 19:04:33,877 INFO 65241 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:04:33,882 INFO 65241 [egg:core] dump config after load, 2ms
+2022-01-28 19:04:33,893 INFO 65241 [egg-watcher:agent] watcher start success
+2022-01-28 19:04:33,898 INFO 65241 [egg:core] dump config after ready, 3ms
+2022-01-28 19:06:10,831 INFO 66103 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:06:10,836 INFO 66103 [egg:core] dump config after load, 2ms
+2022-01-28 19:06:10,846 INFO 66103 [egg-watcher:agent] watcher start success
+2022-01-28 19:06:10,851 INFO 66103 [egg:core] dump config after ready, 2ms
+2022-01-28 19:07:22,209 INFO 66754 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:07:22,215 INFO 66754 [egg:core] dump config after load, 2ms
+2022-01-28 19:07:22,225 INFO 66754 [egg-watcher:agent] watcher start success
+2022-01-28 19:07:22,232 INFO 66754 [egg:core] dump config after ready, 2ms
+2022-01-28 19:11:36,072 INFO 68910 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:11:36,077 INFO 68910 [egg:core] dump config after load, 1ms
+2022-01-28 19:11:36,088 INFO 68910 [egg-watcher:agent] watcher start success
+2022-01-28 19:11:36,093 INFO 68910 [egg:core] dump config after ready, 3ms
+2022-01-28 19:12:43,827 INFO 69598 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:12:43,833 INFO 69598 [egg:core] dump config after load, 1ms
+2022-01-28 19:12:43,845 INFO 69598 [egg-watcher:agent] watcher start success
+2022-01-28 19:12:43,849 INFO 69598 [egg:core] dump config after ready, 2ms
+2022-01-28 19:19:43,835 INFO 73076 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:19:43,841 INFO 73076 [egg:core] dump config after load, 1ms
+2022-01-28 19:19:43,852 INFO 73076 [egg-watcher:agent] watcher start success
+2022-01-28 19:19:43,857 INFO 73076 [egg:core] dump config after ready, 2ms
+2022-01-28 19:20:09,735 INFO 73360 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:20:09,740 INFO 73360 [egg:core] dump config after load, 1ms
+2022-01-28 19:20:09,751 INFO 73360 [egg-watcher:agent] watcher start success
+2022-01-28 19:20:09,757 INFO 73360 [egg:core] dump config after ready, 2ms
+2022-01-28 19:21:12,418 INFO 73956 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:21:12,424 INFO 73956 [egg:core] dump config after load, 1ms
+2022-01-28 19:21:12,435 INFO 73956 [egg-watcher:agent] watcher start success
+2022-01-28 19:21:12,440 INFO 73956 [egg:core] dump config after ready, 2ms
+2022-01-28 19:22:27,625 INFO 74631 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:22:27,630 INFO 74631 [egg:core] dump config after load, 2ms
+2022-01-28 19:22:27,641 INFO 74631 [egg-watcher:agent] watcher start success
+2022-01-28 19:22:27,645 INFO 74631 [egg:core] dump config after ready, 2ms
+2022-01-28 19:22:45,162 INFO 74856 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:22:45,167 INFO 74856 [egg:core] dump config after load, 2ms
+2022-01-28 19:22:45,178 INFO 74856 [egg-watcher:agent] watcher start success
+2022-01-28 19:22:45,182 INFO 74856 [egg:core] dump config after ready, 2ms
+2022-01-28 19:23:32,059 INFO 75355 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:23:32,064 INFO 75355 [egg:core] dump config after load, 2ms
+2022-01-28 19:23:32,075 INFO 75355 [egg-watcher:agent] watcher start success
+2022-01-28 19:23:32,081 INFO 75355 [egg:core] dump config after ready, 2ms
+2022-01-28 19:25:20,271 INFO 76323 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:25:20,279 INFO 76323 [egg:core] dump config after load, 2ms
+2022-01-28 19:25:20,290 INFO 76323 [egg-watcher:agent] watcher start success
+2022-01-28 19:25:20,295 INFO 76323 [egg:core] dump config after ready, 2ms
+2022-01-28 19:26:16,226 INFO 76931 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:26:16,231 INFO 76931 [egg:core] dump config after load, 2ms
+2022-01-28 19:26:16,242 INFO 76931 [egg-watcher:agent] watcher start success
+2022-01-28 19:26:16,246 INFO 76931 [egg:core] dump config after ready, 2ms
+2022-01-28 19:26:19,798 ERROR 76931 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 76931
+hostname: lijundeMBP
+
+2022-01-28 19:28:48,799 INFO 78238 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:28:48,805 INFO 78238 [egg:core] dump config after load, 2ms
+2022-01-28 19:28:48,816 INFO 78238 [egg-watcher:agent] watcher start success
+2022-01-28 19:28:48,821 INFO 78238 [egg:core] dump config after ready, 2ms
+2022-01-28 19:28:52,062 ERROR 78238 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 78238
+hostname: lijundeMBP
+
+2022-01-28 19:31:08,155 INFO 79473 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:31:08,160 INFO 79473 [egg:core] dump config after load, 2ms
+2022-01-28 19:31:08,170 INFO 79473 [egg-watcher:agent] watcher start success
+2022-01-28 19:31:08,175 INFO 79473 [egg:core] dump config after ready, 2ms
+2022-01-28 19:31:24,937 INFO 79675 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:31:24,943 INFO 79675 [egg:core] dump config after load, 2ms
+2022-01-28 19:31:24,953 INFO 79675 [egg-watcher:agent] watcher start success
+2022-01-28 19:31:24,958 INFO 79675 [egg:core] dump config after ready, 2ms
+2022-01-28 19:31:57,202 INFO 80009 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:31:57,207 INFO 80009 [egg:core] dump config after load, 2ms
+2022-01-28 19:31:57,217 INFO 80009 [egg-watcher:agent] watcher start success
+2022-01-28 19:31:57,221 INFO 80009 [egg:core] dump config after ready, 2ms
+2022-01-28 19:32:02,837 ERROR 80009 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 80009
+hostname: lijundeMBP
+
+2022-01-28 19:32:29,345 INFO 80332 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:32:29,350 INFO 80332 [egg:core] dump config after load, 1ms
+2022-01-28 19:32:29,361 INFO 80332 [egg-watcher:agent] watcher start success
+2022-01-28 19:32:29,365 INFO 80332 [egg:core] dump config after ready, 2ms
+2022-01-28 19:32:32,468 ERROR 80332 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 80332
+hostname: lijundeMBP
+
+2022-01-28 19:33:08,037 INFO 80712 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:33:08,042 INFO 80712 [egg:core] dump config after load, 2ms
+2022-01-28 19:33:08,052 INFO 80712 [egg-watcher:agent] watcher start success
+2022-01-28 19:33:08,057 INFO 80712 [egg:core] dump config after ready, 2ms
+2022-01-28 19:33:11,272 ERROR 80712 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 80712
+hostname: lijundeMBP
+
+2022-01-28 19:33:39,046 INFO 81026 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:33:39,051 INFO 81026 [egg:core] dump config after load, 2ms
+2022-01-28 19:33:39,062 INFO 81026 [egg-watcher:agent] watcher start success
+2022-01-28 19:33:39,066 INFO 81026 [egg:core] dump config after ready, 2ms
+2022-01-28 19:33:41,943 ERROR 81026 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 81026
+hostname: lijundeMBP
+
+2022-01-28 19:38:07,953 INFO 83255 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:38:07,960 INFO 83255 [egg:core] dump config after load, 2ms
+2022-01-28 19:38:07,971 INFO 83255 [egg-watcher:agent] watcher start success
+2022-01-28 19:38:07,976 INFO 83255 [egg:core] dump config after ready, 3ms
+2022-01-28 19:38:10,911 ERROR 83255 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 83255
+hostname: lijundeMBP
+
+2022-01-28 19:44:23,395 INFO 86345 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:44:23,402 INFO 86345 [egg:core] dump config after load, 1ms
+2022-01-28 19:44:23,413 INFO 86345 [egg-watcher:agent] watcher start success
+2022-01-28 19:44:23,417 INFO 86345 [egg:core] dump config after ready, 2ms
+2022-01-28 19:44:26,030 ERROR 86345 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 86345
+hostname: lijundeMBP
+
+2022-01-28 19:46:54,732 INFO 87622 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:46:54,737 INFO 87622 [egg:core] dump config after load, 2ms
+2022-01-28 19:46:54,747 INFO 87622 [egg-watcher:agent] watcher start success
+2022-01-28 19:46:54,752 INFO 87622 [egg:core] dump config after ready, 2ms
+2022-01-28 19:46:56,721 ERROR 87622 nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.get [egg-security#CSRF_SECRET] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:83:60)
+    at Object.get csrf [as csrf] (/Users/melon95/resposity/workday/node_modules/egg-security/app/extend/context.js:67:49)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:30
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+    at deepCopy (/Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:128:22)
+    at /Users/melon95/resposity/workday/node_modules/nedb/lib/model.js:130:18
+    at Array.forEach (<anonymous>)
+
+pid: 87622
+hostname: lijundeMBP
+
+2022-01-28 19:57:58,175 INFO 92959 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:57:58,182 INFO 92959 [egg:core] dump config after load, 1ms
+2022-01-28 19:57:58,194 INFO 92959 [egg-watcher:agent] watcher start success
+2022-01-28 19:57:58,198 INFO 92959 [egg:core] dump config after ready, 2ms
+2022-01-28 19:58:38,572 INFO 93363 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 19:58:38,578 INFO 93363 [egg:core] dump config after load, 1ms
+2022-01-28 19:58:38,589 INFO 93363 [egg-watcher:agent] watcher start success
+2022-01-28 19:58:38,594 INFO 93363 [egg:core] dump config after ready, 2ms
+2022-01-28 20:00:11,131 INFO 94218 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 20:00:11,137 INFO 94218 [egg:core] dump config after load, 1ms
+2022-01-28 20:00:11,149 INFO 94218 [egg-watcher:agent] watcher start success
+2022-01-28 20:00:11,153 INFO 94218 [egg:core] dump config after ready, 2ms
+2022-01-28 20:19:35,252 INFO 4483 [egg:logger] init all loggers with options: {"dir":"/Users/melon95/resposity/workday/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-01-28 20:19:35,259 INFO 4483 [egg:core] dump config after load, 2ms
+2022-01-28 20:19:35,270 INFO 4483 [egg-watcher:agent] watcher start success
+2022-01-28 20:19:35,275 INFO 4483 [egg:core] dump config after ready, 2ms
