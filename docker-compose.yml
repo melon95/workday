@@ -1,0 +1,8 @@
+version: '2'
+services:
+  latest:
+    network_mode: bridge
+    container_name: workday
+    image: workday:latest
+    ports:
+      - "1111:1111"
