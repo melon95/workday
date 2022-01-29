@@ -1,3 +1,10 @@
-# webcontainer-egg-shgna5
+# workDay
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/webcontainer-egg-shgna5)
+## 简介
+Apple 工作日闹钟快捷方式API
+
+## 构建
+`docker build -t workday:letest .`
+
+## 部署
+`docker-compose up -d`
