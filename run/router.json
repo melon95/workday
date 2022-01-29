@@ -6,8 +6,20 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/",
-    "regexp": "/^(?:\\/(?=$))?$/",
+    "path": "/today",
+    "regexp": "/^\\/today(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/insert",
+    "regexp": "/^\\/insert(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

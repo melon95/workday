@@ -6,7 +6,7 @@ module.exports = appInfo => {
    * built-in config
    * @type {Egg.EggAppConfig}
    **/
-  const config = (exports = {});
+  const config = {};
 
   // use for cookie sign key, should change to your own and keep security
   config.keys = appInfo.name + '_1556156913732_2632';
@@ -18,6 +18,8 @@ module.exports = appInfo => {
       '.tpl': 'nunjucks'
     }
   };
-
+  config.security = {
+    csrf: false
+  }
   return config;
 };

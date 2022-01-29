@@ -3,5 +3,7 @@
  */
 module.exports = app => {
   const { router, controller } = app;
-  router.get('/', controller.home.index);
+  router.get('/today', controller.home.today);
+  router.get('/tomorrow', controller.home.tomorrow);
+  // router.post('/insert', controller.home.insertWorkDay);
 };
