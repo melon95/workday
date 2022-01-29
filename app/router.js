@@ -4,5 +4,6 @@
 module.exports = app => {
   const { router, controller } = app;
   router.get('/today', controller.home.today);
-  router.post('/insert', controller.home.insertWorkDay);
+  router.get('/tomorrow', controller.home.tomorrow);
+  // router.post('/insert', controller.home.insertWorkDay);
 };
