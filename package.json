@@ -1,6 +1,6 @@
 {
-  "name": "webcontainer-egg",
-  "version": "0.0.0",
+  "name": "workday",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "egg": "^2",
@@ -8,10 +8,16 @@
     "nedb": "^1.8.0"
   },
   "devDependencies": {
-    "egg-bin": "^4"
+    "egg-bin": "^4",
+    "eslint": "^8.23.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "prettier-config-standard": "^5.0.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "egg-scripts start --port=1111 --env=prod --workers=1"
   },
-  "homepage": "https://github.com/atian25/webcontainer-egg"
+  "homepage": "https://github.com/melon95/workday"
 }
