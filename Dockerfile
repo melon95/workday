@@ -1,16 +1,7 @@
-# Build Stage 1
-# This build created a staging docker image
-#
-FROM node:16.13.2-alpine3.15 AS appbuild
-WORKDIR /home/workday
-COPY . ./
-RUN npm install
-
-# Build Stage 2
-# This build takes the production build from staging build
-#
-FROM node:16.13.2-alpine3.15
-WORKDIR /home/workday
-COPY --from=appbuild /home/workday ./
+FROM node:16-alpine
+WORKDIR /usr/src/app
+COPY package*.json ./
+RUN npm i
+COPY . .
 EXPOSE 1111
-ENTRYPOINT ["sh","-c","npm start"]
+CMD [ "npm", "start" ]

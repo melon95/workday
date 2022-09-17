@@ -6,20 +6,18 @@ module.exports = appInfo => {
    * built-in config
    * @type {Egg.EggAppConfig}
    **/
-  const config = {};
+  const config = {}
 
   // use for cookie sign key, should change to your own and keep security
-  config.keys = appInfo.name + '_1556156913732_2632';
+  config.keys = appInfo.name + 'workday'
 
-  config.view = {
-    defaultViewEngine: 'nunjucks',
-    mapping: {
-      '.nj': 'nunjucks',
-      '.tpl': 'nunjucks'
-    }
-  };
+  config.logger = {
+    level: 'ERROR',
+    consoleLevel: 'ERROR'
+  }
+
   config.security = {
     csrf: false
   }
-  return config;
-};
+  return config
+}
