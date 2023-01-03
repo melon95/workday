@@ -5,3 +5,6 @@ node_modules
 .vscode
 run
 logs
+dataSource.json
+docker-compose.yml
+insert.js

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "axios": "^1.2.2",
     "egg": "^2",
     "egg-scripts": "^2",
     "nedb": "^1.8.0"
@@ -17,7 +18,8 @@
     "prettier-config-standard": "^5.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --port=1111 --env=prod --workers=1"
+    "start": "egg-scripts start --port=1111 --env=prod --workers=1",
+    "insert": "node insert.js"
   },
   "homepage": "https://github.com/melon95/workday"
 }
